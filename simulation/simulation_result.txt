@@ -1,1 +1,113 @@
-
+run -all 
+# PASS: ID=1 A=153 B=197 Opcode=3 Expected=221 Actual=221 
+# PASS: ID=2 A=0 B=29 Opcode=3 Expected=29 Actual=29 
+# PASS: ID=3 A=40 B=125 Opcode=1 Expected=171 Actual=171 
+# PASS: ID=4 A=191 B=0 Opcode=3 Expected=191 Actual=191 
+# PASS: ID=5 A=226 B=128 Opcode=0 Expected=98 Actual=98 
+# PASS: ID=6 A=80 B=118 Opcode=4 Expected=38 Actual=38 
+# PASS: ID=7 A=213 B=255 Opcode=6 Expected=170 Actual=170 
+# PASS: ID=8 A=78 B=55 Opcode=0 Expected=133 Actual=133 
+# PASS: ID=9 A=3 B=0 Opcode=0 Expected=3 Actual=3 
+# PASS: ID=10 A=168 B=91 Opcode=0 Expected=3 Actual=3 
+# PASS: ID=11 A=0 B=29 Opcode=6 Expected=0 Actual=0 
+# PASS: ID=12 A=50 B=64 Opcode=1 Expected=242 Actual=242 
+# PASS: ID=13 A=234 B=0 Opcode=2 Expected=0 Actual=0 
+# PASS: ID=14 A=95 B=153 Opcode=3 Expected=223 Actual=223 
+# PASS: ID=15 A=173 B=187 Opcode=0 Expected=104 Actual=104 
+# PASS: ID=16 A=100 B=152 Opcode=1 Expected=204 Actual=204 
+# PASS: ID=17 A=97 B=185 Opcode=3 Expected=249 Actual=249 
+# PASS: ID=18 A=255 B=89 Opcode=1 Expected=166 Actual=166 
+# PASS: ID=19 A=154 B=207 Opcode=2 Expected=138 Actual=138 
+# PASS: ID=20 A=0 B=12 Opcode=1 Expected=244 Actual=244 
+# PASS: ID=21 A=141 B=255 Opcode=1 Expected=142 Actual=142 
+# PASS: ID=22 A=211 B=17 Opcode=3 Expected=211 Actual=211 
+# PASS: ID=23 A=88 B=55 Opcode=5 Expected=167 Actual=167 
+# PASS: ID=24 A=255 B=130 Opcode=7 Expected=127 Actual=127 
+# PASS: ID=25 A=130 B=163 Opcode=6 Expected=4 Actual=4 
+# PASS: ID=26 A=180 B=84 Opcode=2 Expected=20 Actual=20 
+# PASS: ID=27 A=242 B=189 Opcode=6 Expected=228 Actual=228 
+# PASS: ID=28 A=214 B=175 Opcode=0 Expected=133 Actual=133 
+# PASS: ID=29 A=205 B=237 Opcode=5 Expected=50 Actual=50 
+# PASS: ID=30 A=67 B=25 Opcode=5 Expected=188 Actual=188 
+# PASS: ID=31 A=197 B=113 Opcode=5 Expected=58 Actual=58 
+# PASS: ID=32 A=8 B=124 Opcode=3 Expected=124 Actual=124 
+# PASS: ID=33 A=85 B=133 Opcode=1 Expected=208 Actual=208 
+# PASS: ID=34 A=123 B=0 Opcode=4 Expected=123 Actual=123 
+# PASS: ID=35 A=199 B=155 Opcode=1 Expected=44 Actual=44 
+# PASS: ID=36 A=159 B=86 Opcode=0 Expected=245 Actual=245 
+# PASS: ID=37 A=0 B=244 Opcode=5 Expected=255 Actual=255 
+# PASS: ID=38 A=96 B=76 Opcode=2 Expected=64 Actual=64 
+# PASS: ID=39 A=117 B=84 Opcode=7 Expected=58 Actual=58 
+# PASS: ID=40 A=113 B=30 Opcode=2 Expected=16 Actual=16 
+# PASS: ID=41 A=62 B=204 Opcode=0 Expected=10 Actual=10 
+# PASS: ID=42 A=255 B=213 Opcode=3 Expected=255 Actual=255 
+# PASS: ID=43 A=22 B=107 Opcode=7 Expected=11 Actual=11 
+# PASS: ID=44 A=119 B=86 Opcode=3 Expected=119 Actual=119 
+# PASS: ID=45 A=0 B=255 Opcode=1 Expected=1 Actual=1 
+# PASS: ID=46 A=255 B=91 Opcode=6 Expected=254 Actual=254 
+# PASS: ID=47 A=148 B=200 Opcode=3 Expected=220 Actual=220 
+# PASS: ID=48 A=31 B=255 Opcode=5 Expected=224 Actual=224 
+# PASS: ID=49 A=159 B=200 Opcode=3 Expected=223 Actual=223 
+# PASS: ID=50 A=164 B=63 Opcode=6 Expected=72 Actual=72 
+# PASS: ID=51 A=45 B=180 Opcode=3 Expected=189 Actual=189 
+# PASS: ID=52 A=90 B=90 Opcode=2 Expected=90 Actual=90 
+# PASS: ID=53 A=143 B=130 Opcode=2 Expected=130 Actual=130 
+# PASS: ID=54 A=127 B=219 Opcode=2 Expected=91 Actual=91 
+# PASS: ID=55 A=71 B=55 Opcode=7 Expected=35 Actual=35 
+# PASS: ID=56 A=233 B=255 Opcode=6 Expected=210 Actual=210 
+# PASS: ID=57 A=255 B=255 Opcode=1 Expected=0 Actual=0 
+# PASS: ID=58 A=0 B=58 Opcode=5 Expected=255 Actual=255 
+# PASS: ID=59 A=140 B=179 Opcode=7 Expected=70 Actual=70 
+# PASS: ID=60 A=205 B=232 Opcode=0 Expected=181 Actual=181 
+# PASS: ID=61 A=54 B=49 Opcode=0 Expected=103 Actual=103 
+# PASS: ID=62 A=255 B=91 Opcode=1 Expected=164 Actual=164 
+# PASS: ID=63 A=147 B=50 Opcode=1 Expected=97 Actual=97 
+# PASS: ID=64 A=161 B=78 Opcode=1 Expected=83 Actual=83 
+# PASS: ID=65 A=134 B=201 Opcode=3 Expected=207 Actual=207 
+# PASS: ID=66 A=224 B=163 Opcode=4 Expected=67 Actual=67 
+# PASS: ID=67 A=180 B=0 Opcode=3 Expected=180 Actual=180 
+# PASS: ID=68 A=252 B=46 Opcode=5 Expected=3 Actual=3 
+# PASS: ID=69 A=65 B=113 Opcode=2 Expected=65 Actual=65 
+# PASS: ID=70 A=69 B=255 Opcode=4 Expected=186 Actual=186 
+# PASS: ID=71 A=19 B=143 Opcode=5 Expected=236 Actual=236 
+# PASS: ID=72 A=16 B=111 Opcode=5 Expected=239 Actual=239 
+# PASS: ID=73 A=0 B=211 Opcode=2 Expected=0 Actual=0 
+# PASS: ID=74 A=31 B=218 Opcode=3 Expected=223 Actual=223 
+# PASS: ID=75 A=244 B=188 Opcode=1 Expected=56 Actual=56 
+# PASS: ID=76 A=255 B=155 Opcode=1 Expected=100 Actual=100 
+# PASS: ID=77 A=0 B=177 Opcode=3 Expected=177 Actual=177 
+# PASS: ID=78 A=78 B=216 Opcode=4 Expected=150 Actual=150 
+# PASS: ID=79 A=92 B=233 Opcode=6 Expected=184 Actual=184 
+# PASS: ID=80 A=76 B=0 Opcode=3 Expected=76 Actual=76 
+# PASS: ID=81 A=208 B=109 Opcode=2 Expected=64 Actual=64 
+# PASS: ID=82 A=50 B=84 Opcode=0 Expected=134 Actual=134 
+# PASS: ID=83 A=243 B=5 Opcode=6 Expected=230 Actual=230 
+# PASS: ID=84 A=153 B=17 Opcode=5 Expected=102 Actual=102 
+# PASS: ID=85 A=40 B=34 Opcode=7 Expected=20 Actual=20 
+# PASS: ID=86 A=0 B=33 Opcode=0 Expected=33 Actual=33 
+# PASS: ID=87 A=74 B=114 Opcode=7 Expected=37 Actual=37 
+# PASS: ID=88 A=255 B=78 Opcode=6 Expected=254 Actual=254 
+# PASS: ID=89 A=229 B=69 Opcode=7 Expected=114 Actual=114 
+# PASS: ID=90 A=154 B=254 Opcode=4 Expected=100 Actual=100 
+# PASS: ID=91 A=18 B=28 Opcode=6 Expected=36 Actual=36 
+# PASS: ID=92 A=228 B=89 Opcode=2 Expected=64 Actual=64 
+# PASS: ID=93 A=24 B=90 Opcode=0 Expected=114 Actual=114 
+# PASS: ID=94 A=255 B=241 Opcode=3 Expected=255 Actual=255 
+# PASS: ID=95 A=4 B=84 Opcode=7 Expected=2 Actual=2 
+# PASS: ID=96 A=0 B=245 Opcode=6 Expected=0 Actual=0 
+# PASS: ID=97 A=187 B=118 Opcode=3 Expected=255 Actual=255 
+# PASS: ID=98 A=27 B=10 Opcode=6 Expected=54 Actual=54 
+# PASS: ID=99 A=58 B=173 Opcode=5 Expected=197 Actual=197 
+# PASS: ID=100 A=250 B=119 Opcode=5 Expected=5 Actual=5 
+# ======================================== 
+#          SCOREBOARD SUMMARY              
+# ======================================== 
+# Total Transactions : 100 
+# PASS               : 100 
+# FAIL               : 0 
+# ======================================== 
+# ** Note: $finish    : tb/alu_test.sv(24) 
+#    Time: 200 ns  Iteration: 0  Instance: /alu_test 
+# 1 
+# Break at tb/alu_test.sv line 24 
+ this is what i got 
