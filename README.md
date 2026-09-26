@@ -115,3 +115,20 @@ Randomized Transaction
         |
         v
      PASS / FAIL
+---
+
+## Simulation Results
+
+The ALU was verified using randomized transactions.
+
+- **Total Transactions:** 100
+- **PASS:** 100
+- **FAIL:** 0
+
+All 100 transactions passed successfully.
+
+## Simulation Waveform
+
+![ALU Simulation Waveform](Alu_waveform.jpeg)
+
+[View Full-Size Waveform](Alu_waveform.jpeg)
